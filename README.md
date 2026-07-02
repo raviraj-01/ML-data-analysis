@@ -65,22 +65,6 @@ This repository contains **multiple Python data analysis projects** developed as
 | State vs Violation Type breakdown |
 | Multi-hue bar chart (Seaborn) |
 
----
-
-## 📦 Datasets
-
-| File | Description | Source |
-|------|-------------|--------|
-| `covid_19_india.csv` | COVID-19 state-wise deaths & cases | [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india) |
-| `covid_19_india.xlsx` | Same data in Excel format | [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india) |
-| `Indian_Traffic_Violations.csv` | Indian traffic violation records | [Kaggle](https://www.kaggle.com) |
-| `India_lpg_dataset.csv` | India state-wise LPG data | [Kaggle](https://www.kaggle.com) |
-| `LPG_Statewise_Migration_Dataset_500_Rows.csv` | LPG & migration data (500 rows) | 🔧 Synthetically generated |
-| `Cancer_Statewise_Dataset_500_Rows.xlsx` | Cancer cured/deaths by state | 🔧 Synthetically generated |
-
-> 🔧 = Synthetic datasets generated for academic/assignment purposes.
-
----
 
 ## 🚀 How to Run
 
